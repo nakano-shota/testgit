@@ -6,3 +6,5 @@ gitのテスト
 
 bbbbb
 aaaaa
+
+jskcmasck;
