@@ -4,6 +4,3 @@ gitのテスト
 
 追加
 
-bbbbb
-aaaaa
-jskcmasck;
